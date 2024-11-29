@@ -1,7 +1,7 @@
 # Comparative-analysis-of-algorithms-for-community-detection
 # Community Detection Research
 
-This repository contains the Python code, datasets, and results for the research paper titled **"Comparative Analysis of Community Detection Algorithms."** It focuses on applying and comparing algorithms like Louvain, Girvan-Newman, ECDR, and NSGA-II on social and water distribution networks.
+This repository contains the Python code, datasets, and results for the research paper titled **"Comparative Analysis of Community Detection Algorithms."** It focuses on applying and comparing algorithms like Louvain, Leiden, Label Propagation, ECDR, and NSGA-II on social and water distribution networks.
 
 ## Overview
 

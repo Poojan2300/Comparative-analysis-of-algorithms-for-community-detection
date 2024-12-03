@@ -1,7 +1,7 @@
 # Comparative-analysis-of-algorithms-for-community-detection
 # Community Detection Research
 
-This repository contains the Python code, datasets, and results for the research paper titled **"Comparative Analysis of Community Detection Algorithms."** It focuses on applying and comparing algorithms like Louvain, Leiden, Label Propagation, ECDR, and NSGA-II on social and water distribution networks.
+This repository contains the Python code, datasets, and results for the research paper titled **"Comparative Analysis of Community Detection Algorithms."** It focuses on applying and comparing algorithms like Louvain, Leiden and Label Propagation on social and water distribution networks.
 
 ## Overview
 
@@ -22,5 +22,11 @@ To run this project, ensure you have:
   - `scikit-learn`
   - `deap` (for NSGA-II/III)
   - `louvain` (community-louvain package)
- 
+
+### Datasets
+The datasets used in the following study can be found below:
+1 - https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html
+2 - https://snap.stanford.edu/data/wiki-Vote.html
+3 - https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html
+4 - https://snap.stanford.edu/data/ego-Facebook.html
 

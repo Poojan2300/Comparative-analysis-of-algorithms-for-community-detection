@@ -16,11 +16,14 @@ To run this project, ensure you have:
 - Python 3.8 or newer
 - The following Python libraries:
   - `networkx`
+  - `community`
+  - `itertools`
   - `matplotlib`
+  - `igraph`
   - `numpy`
   - `pandas`
+  - `leidenalg`
   - `scikit-learn`
-  - `deap` (for NSGA-II/III)
   - `louvain` (community-louvain package)
 
 ### Datasets

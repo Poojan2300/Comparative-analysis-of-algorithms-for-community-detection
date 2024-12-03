@@ -25,6 +25,7 @@ To run this project, ensure you have:
   - `leidenalg`
   - `scikit-learn`
   - `louvain` (community-louvain package)
+
 After installing these packages, the code given in the repository for each algorithm can be executed. 
 
 ### Datasets

@@ -5,7 +5,7 @@ This repository contains the Python code, datasets, and results for the research
 
 ## Overview
 
-This project evaluates the performance of various community detection algorithms based on metrics like modularity, clustering coefficient, and runtime. Results include visualizations of detected communities and detailed performance comparisons.
+This project evaluates the performance of various community detection algorithms based on metrics like modularity, clustering coefficient and number of communities. Results include visualizations of detected communities and detailed performance comparisons.
 
 ## Dependencies and Installation
 

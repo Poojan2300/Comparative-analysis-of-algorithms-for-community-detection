@@ -25,8 +25,8 @@ To run this project, ensure you have:
 
 ### Datasets
 The datasets used in the following study can be found below:
-1 - https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html
-2 - https://snap.stanford.edu/data/wiki-Vote.html
-3 - https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html
-4 - https://snap.stanford.edu/data/ego-Facebook.html
+ - 1: https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html
+ - 2: https://snap.stanford.edu/data/wiki-Vote.html
+ - 3: https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html
+ - 4: https://snap.stanford.edu/data/ego-Facebook.html
 
